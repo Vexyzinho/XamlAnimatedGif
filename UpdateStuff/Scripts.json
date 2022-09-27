@@ -5,6 +5,7 @@
       "desc" : "A very simple aimbot and ESP script that should work in most games.",
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/SimpleAimbotESP.txt\"))()",
       "imgurl" : "https://i.ytimg.com/vi/NWIiATnOnTI/maxresdefault.jpg"
+      "imgurl2" : "https://cdn.discordapp.com/avatars/1023074710180868156/8f6f6a6d88d4bef403f3c565cc52a163.webp?size=128"
    },
    {
       "title":"Server hop",
@@ -12,5 +13,6 @@
       "desc" : "A simple script that allows you to server hop.",
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/ServerHop.txt\"))()",
       "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/!DefaultBackground.png"
+      "imgurl2" : "https://cdn.discordapp.com/avatars/1023074710180868156/8f6f6a6d88d4bef403f3c565cc52a163.webp?size=128"
    }
 ]
